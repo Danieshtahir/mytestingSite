@@ -4,11 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Log In &lsaquo; testingsite &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
-<link rel="stylesheet" id="dashicons-css" href="/https://danieshtahir.github.io/mytestingSite/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
-<link rel="stylesheet" id="buttons-css" href="/https://danieshtahir.github.io/mytestingSite/wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
-<link rel="stylesheet" id="forms-css" href="/https://danieshtahir.github.io/mytestingSite/wp-admin/css/forms.min.css?ver=6.1.1" media="all">
-<link rel="stylesheet" id="l10n-css" href="/https://danieshtahir.github.io/mytestingSite/wp-admin/css/l10n.min.css?ver=6.1.1" media="all">
-<link rel="stylesheet" id="login-css" href="/https://danieshtahir.github.io/mytestingSite/wp-admin/css/login.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://danieshtahir.github.io/mytestingSite/wp-includes/css/dashicons.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="buttons-css" href="http://danieshtahir.github.io/mytestingSite/wp-includes/css/buttons.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="forms-css" href="http://danieshtahir.github.io/mytestingSite/wp-admin/css/forms.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="l10n-css" href="http://danieshtahir.github.io/mytestingSite/wp-admin/css/l10n.min.css?ver=6.1.1" media="all">
+<link rel="stylesheet" id="login-css" href="http://danieshtahir.github.io/mytestingSite/wp-admin/css/login.min.css?ver=6.1.1" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -41,31 +41,31 @@
 		</form>
 
 					<p id="nav">
-				<a href="/https://danieshtahir.github.io/mytestingSite/wp-login.php?action=lostpassword">Lost your password?</a>			</p>
+				<a href="http://danieshtahir.github.io/mytestingSite/wp-login.php?action=lostpassword">Lost your password?</a>			</p>
 					<script type="text/javascript">function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="/https://danieshtahir.github.io/mytestingSite/">&larr; Go to testingsite</a>		</p>
+			<a href="http://danieshtahir.github.io/mytestingSite/">&larr; Go to testingsite</a>		</p>
 			</div>
-			<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"\/https:\/\/danieshtahir.github.io\/mytestingSite\/wp-includes\/js\/zxcvbn.min.js"};</script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
+			<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"http:\/\/danieshtahir.github.io\/mytestingSite\/wp-includes\/js\/zxcvbn.min.js"};</script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script id="password-strength-meter-js-extra">var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};</script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-admin/js/password-strength-meter.min.js?ver=6.1.1" id="password-strength-meter-js"></script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-admin/js/password-strength-meter.min.js?ver=6.1.1" id="password-strength-meter-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/testingsite\/wp-admin\/admin-ajax.php"}};</script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-includes/js/wp-util.min.js?ver=6.1.1" id="wp-util-js"></script>
 <script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"6709197e98"};</script>
-<script src="/https://danieshtahir.github.io/mytestingSite/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
+<script src="http://danieshtahir.github.io/mytestingSite/wp-admin/js/user-profile.min.js?ver=6.1.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>

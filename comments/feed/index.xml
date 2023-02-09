@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for testingsite	</title>
-	<atom:link href="/https://danieshtahir.github.io/mytestingSite/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://danieshtahir.github.io/mytestingSite</link>
+	<atom:link href="http://danieshtahir.github.io/mytestingSite/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://danieshtahir.github.io/mytestingSite</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Feb 2023 08:46:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/https://danieshtahir.github.io/mytestingSite/2023/02/09/hello-world/#comment-1</link>
+		<link>http://danieshtahir.github.io/mytestingSite/2023/02/09/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 09 Feb 2023 08:46:32 +0000</pubDate>
-		<guid isPermaLink="false">/https://danieshtahir.github.io/mytestingSite/?p=1#comment-1</guid>
+		<guid isPermaLink="false">http://danieshtahir.github.io/mytestingSite/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/https://danieshtahir.github.io/mytestingSite/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://danieshtahir.github.io/mytestingSite</link>
+	<atom:link href="http://danieshtahir.github.io/mytestingSite/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>http://danieshtahir.github.io/mytestingSite</link>
 	<description></description>
 	<lastBuildDate>Thu, 09 Feb 2023 08:46:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
